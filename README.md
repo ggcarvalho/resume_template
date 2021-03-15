@@ -1,1 +1,3 @@
-# resume_template
+# Read Me
+
+Template for CV/Resume. 
