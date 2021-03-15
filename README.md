@@ -1,3 +1,3 @@
 # Read Me
 
-LaTeX template for CV/Resume. 
+LaTeX template for a CV/Resume. 
